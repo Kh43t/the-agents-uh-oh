@@ -1,0 +1,1 @@
+{"description":"One word an agent says when it has no idea what to do: buffering.","license":"MIT","main":"main.ts","name":"the-agents-uh-oh","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
